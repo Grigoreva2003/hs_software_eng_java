@@ -2,7 +2,7 @@
 Repository for Software Engineering course at Harbour.Space university
 
 
-**Task 1**
+**Task 1** (estimated time: 10 min, actual: 6 min)
 
 Given an integer x, return true if x is a palindrome, and false otherwise.
 Input: x = 121 Output: true
@@ -16,7 +16,7 @@ Constraints:
 x is a positive integer, no more than 2^31-1
 
 
-**Task 2**
+**Task 2** (estimated time: 10 min, actual: 10 min)
 
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
